@@ -32,6 +32,7 @@ select{height:46px;border:1px solid var(--line);border-radius:8px;padding:0 10px
 .gpa{font-size:20px;font-weight:700;font-variant-numeric:tabular-nums}
 .PASS{color:var(--pass)}.FAIL{color:var(--fail)}.ABSENT{color:var(--abs)}
 .badge{font-size:12px;font-weight:600}
+.det{margin-top:6px;font-size:12px}.det summary{cursor:pointer;color:var(--accent);font-weight:600}.det table{border-collapse:collapse;margin:6px 0;width:100%}.det td,.det th{border-bottom:1px solid var(--line);padding:3px 6px;text-align:left}.det th{color:var(--muted);font-weight:600}
 .empty{text-align:center;color:var(--muted);padding:40px 0}
 @media(max-width:520px){.row{grid-template-columns:1fr auto}.roll{grid-column:1/-1}}
 </style>
@@ -43,7 +44,7 @@ select{height:46px;border:1px solid var(--line);border-radius:8px;padding:0 10px
   <div class="stats" id="stats"></div>
 
   <div class="search">
-    <input type="search" id="q" placeholder="Search by name or roll number…" autofocus>
+    <input type="search" id="q" placeholder="Search by name, roll, father or mother…" autofocus>
     <select id="filter">
       <option value="">All results</option>
       <option value="PASS">Passed</option>
@@ -90,6 +91,18 @@ function init() {
   render();
 }
 
+function detailsHtml(r) {
+  const d = r.details; if (!d) return "";
+  const f = Object.entries(d.fields || {}).map(([k, v]) => `<tr><th>${esc(k)}</th><td>${esc(v)}</td></tr>`).join("");
+  let sub = "";
+  if ((d.subjects || []).length) {
+    const cols = Object.keys(d.subjects[0]);
+    sub = "<table><tr>" + cols.map(c => `<th>${esc(c)}</th>`).join("") + "</tr>" +
+      d.subjects.map(s => "<tr>" + cols.map(c => `<td>${esc(s[c])}</td>`).join("") + "</tr>").join("") + "</table>";
+  }
+  return `<details class="det"><summary>Details</summary><table>${f}</table>${sub}</details>`;
+}
+
 function render() {
   if (!DATA) return;
   const q = $("q").value.trim().toLowerCase();
@@ -99,7 +112,7 @@ function render() {
   const hits = DATA.records.filter(r => {
     if (f && r.result !== f) return false;
     if (g && r.group !== g) return false;
-    const hay = (r.roll + " " + (r.name || "")).toLowerCase();
+    const hay = (r.roll + " " + (r.name || "") + " " + (r.father || "") + " " + (r.mother || "")).toLowerCase();
     return terms.every(t => hay.includes(t));
   });
 
@@ -113,7 +126,7 @@ function render() {
     return `<div class="row">
       <div class="roll">${esc(r.roll)}</div>
       <div><div class="name">${esc(r.name) || '<span class="meta">(name not loaded)</span>'}</div>
-           <div class="meta">${esc(r.group)}</div></div>
+           <div class="meta">${esc(r.group)}</div>${detailsHtml(r)}</div>
       <div class="res">${right}</div></div>`;
   }).join("") + (hits.length > 200 ? '<div class="empty">Showing first 200. Refine your search.</div>' : "");
 }

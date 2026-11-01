@@ -14,6 +14,7 @@ SITE = ROOT / "site"
 DATA = ROOT / "data"
 TEMPLATE = (Path(__file__).parent / "search_template.html").read_text(encoding="utf-8")
 NAMES_CSV = ROOT / "names.csv"
+DETAILS_FILE = ROOT / "data" / "details.json"
 
 
 def main():
@@ -22,19 +23,28 @@ def main():
     names = load_names(NAMES_CSV) if NAMES_CSV.exists() else {}
     print(f"Loaded {len(names)} names" if names else "No names in names.csv (roll search only)")
 
+    scraped = json.loads(DETAILS_FILE.read_text(encoding="utf-8")) if DETAILS_FILE.exists() else {}
+    print(f"Loaded scraped details for {len(scraped)} rolls")
+
     if SITE.exists():
         shutil.rmtree(SITE)
     SITE.mkdir()
     DATA.mkdir(exist_ok=True)
     for old in DATA.glob("*.json"):
-        old.unlink()
+        if old.name != "details.json":
+            old.unlink()
     (SITE / ".nojekyll").touch()
 
     entries = []
     for pdf in PDFS:
         data = parse(extract_text(pdf))
         for r in data["records"]:
-            r["name"] = names.get(r["roll"], "")
+            d = scraped.get(r["roll"])
+            r["name"] = names.get(r["roll"]) or (d or {}).get("name", "")   # names.csv overrides scraped
+            if d:
+                r["father"], r["mother"] = d.get("father", ""), d.get("mother", "")
+                r["total_marks"] = d.get("total_marks")
+                r["details"] = {"fields": d.get("fields", {}), "subjects": d.get("subjects", [])}
         data["records"].sort(key=lambda r: r["roll"])
 
         meta = data["meta"]
