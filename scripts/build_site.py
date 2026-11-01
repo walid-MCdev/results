@@ -11,6 +11,7 @@ from hsc_parser import extract_text, load_names, parse
 ROOT = Path(__file__).resolve().parent.parent
 PDFS = sorted((ROOT / "pdfs").glob("*.pdf"))
 SITE = ROOT / "site"
+DATA = ROOT / "data"
 TEMPLATE = (Path(__file__).parent / "search_template.html").read_text(encoding="utf-8")
 NAMES_CSV = ROOT / "names.csv"
 
@@ -19,11 +20,14 @@ def main():
     if not PDFS:
         sys.exit("No PDFs found in pdfs/")
     names = load_names(NAMES_CSV) if NAMES_CSV.exists() else {}
-    print(f"Loaded {len(names)} names" if names else "No names.csv found (roll search only)")
+    print(f"Loaded {len(names)} names" if names else "No names in names.csv (roll search only)")
 
     if SITE.exists():
         shutil.rmtree(SITE)
     SITE.mkdir()
+    DATA.mkdir(exist_ok=True)
+    for old in DATA.glob("*.json"):
+        old.unlink()
     (SITE / ".nojekyll").touch()
 
     entries = []
@@ -40,11 +44,13 @@ def main():
 
         out = SITE / pdf.stem
         out.mkdir()
-        (out / "results.json").write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+        payload = json.dumps(data, ensure_ascii=False, indent=2)
+        (out / "results.json").write_text(payload, encoding="utf-8")   # served on the website
+        (DATA / f"{pdf.stem}.json").write_text(payload, encoding="utf-8")  # committed to the repo
         (out / "index.html").write_text(
             TEMPLATE.replace("/*__DATA__*/null", json.dumps(data, ensure_ascii=False)), encoding="utf-8")
         entries.append((pdf.stem, meta.get("institute_name", pdf.stem), len(data["records"])))
-        print(f"{pdf.name}: {len(data['records'])} records -> site/{pdf.stem}/")
+        print(f"{pdf.name}: {len(data['records'])} records -> data/{pdf.stem}.json + site/{pdf.stem}/")
 
     if len(entries) == 1:
         slug = entries[0][0]
