@@ -1,4 +1,4 @@
-# HSC Result Search
+# HSC Result Search 
 
 Upload a board result PDF to `pdfs/` and GitHub Actions parses it, builds a searchable page, and publishes it with GitHub Pages.
 
