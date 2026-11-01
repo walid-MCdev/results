@@ -1,0 +1,3733 @@
+{
+  "meta": {
+    "institute_name": "FATEYABAD CITY CORPORATION DEGREE COLLEGE (104050)",
+    "zilla": "CHATTOGRAM (18)",
+    "thana": "HATHAZARI (196)",
+    "appeared": "368",
+    "passed": "198",
+    "percent": "53.80%",
+    "gpa5": "0"
+  },
+  "records": [
+    {
+      "roll": "104433",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 4.17,
+      "grade": "A",
+      "name": ""
+    },
+    {
+      "roll": "104434",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.5,
+      "grade": "A-",
+      "name": ""
+    },
+    {
+      "roll": "104435",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.08,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "104436",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.25,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "104437",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.58,
+      "grade": "A-",
+      "name": ""
+    },
+    {
+      "roll": "104438",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.83,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "104439",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.83,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "104440",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.08,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "104441",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "104442",
+      "group": "Unsuccessful / Others",
+      "status": "Absent",
+      "result": "ABSENT",
+      "code": "ABS.",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "104443",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "104444",
+      "group": "Unsuccessful / Others",
+      "status": "Absent",
+      "result": "ABSENT",
+      "code": "ABS.",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "104445",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.33,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "104446",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.5,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "104447",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "104448",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "104449",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "104450",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.42,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "104451",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "104452",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "104453",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "104454",
+      "group": "Unsuccessful / Others",
+      "status": "Failed",
+      "result": "FAIL",
+      "code": "F",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "104455",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.92,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "104456",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.08,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "104457",
+      "group": "Unsuccessful / Others",
+      "status": "Failed",
+      "result": "FAIL",
+      "code": "F",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "104458",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.83,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "104459",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.83,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "104460",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.75,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "104461",
+      "group": "Unsuccessful / Others",
+      "status": "Failed",
+      "result": "FAIL",
+      "code": "F",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "104462",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "104463",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "104464",
+      "group": "Unsuccessful / Others",
+      "status": "Failed",
+      "result": "FAIL",
+      "code": "F",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "104465",
+      "group": "Unsuccessful / Others",
+      "status": "Failed",
+      "result": "FAIL",
+      "code": "F",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "104466",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "104467",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "104468",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "104469",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.92,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "104470",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.42,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "104471",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.0,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "104472",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.25,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "104473",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "104474",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.83,
+      "grade": "A-",
+      "name": ""
+    },
+    {
+      "roll": "104475",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.42,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "104476",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.17,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "104477",
+      "group": "Unsuccessful / Others",
+      "status": "Failed",
+      "result": "FAIL",
+      "code": "F",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "104478",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.67,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "104479",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.25,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "104480",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.92,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "104481",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.58,
+      "grade": "A-",
+      "name": ""
+    },
+    {
+      "roll": "104482",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.42,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "104483",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.67,
+      "grade": "A-",
+      "name": ""
+    },
+    {
+      "roll": "104484",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.0,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "104485",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.17,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "104486",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "104487",
+      "group": "Unsuccessful / Others",
+      "status": "Failed",
+      "result": "FAIL",
+      "code": "F",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "104488",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "104489",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "104490",
+      "group": "Unsuccessful / Others",
+      "status": "Failed",
+      "result": "FAIL",
+      "code": "F",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "104491",
+      "group": "Unsuccessful / Others",
+      "status": "Failed",
+      "result": "FAIL",
+      "code": "F",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302070",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.42,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "302071",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302072",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302073",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.42,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "302074",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302075",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302076",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302077",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.33,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "302078",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.33,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "302079",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302080",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 4.0,
+      "grade": "A",
+      "name": ""
+    },
+    {
+      "roll": "302081",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302082",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.67,
+      "grade": "A-",
+      "name": ""
+    },
+    {
+      "roll": "302083",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.58,
+      "grade": "A-",
+      "name": ""
+    },
+    {
+      "roll": "302084",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302085",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302086",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302087",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302088",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302089",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302090",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302091",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.67,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "302092",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.92,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "302093",
+      "group": "Unsuccessful / Others",
+      "status": "Absent",
+      "result": "ABSENT",
+      "code": "ABS.",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302094",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.25,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "302095",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302096",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.25,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "302097",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.83,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "302098",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302099",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302100",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.42,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "302101",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.5,
+      "grade": "A-",
+      "name": ""
+    },
+    {
+      "roll": "302102",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.75,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "302103",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302104",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302105",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302106",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.33,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "302107",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.58,
+      "grade": "A-",
+      "name": ""
+    },
+    {
+      "roll": "302108",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302109",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 4.67,
+      "grade": "A",
+      "name": ""
+    },
+    {
+      "roll": "302110",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302111",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.92,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "302112",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.0,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "302113",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.08,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "302114",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302115",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302116",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.75,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "302117",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.58,
+      "grade": "A-",
+      "name": ""
+    },
+    {
+      "roll": "302118",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.5,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "302119",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.25,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "302120",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302121",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302122",
+      "group": "Unsuccessful / Others",
+      "status": "Failed",
+      "result": "FAIL",
+      "code": "F",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302123",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302124",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302125",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.58,
+      "grade": "A-",
+      "name": ""
+    },
+    {
+      "roll": "302126",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302127",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302128",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302129",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302130",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302131",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.08,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "302132",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.58,
+      "grade": "A-",
+      "name": ""
+    },
+    {
+      "roll": "302133",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302134",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.75,
+      "grade": "A-",
+      "name": ""
+    },
+    {
+      "roll": "302135",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.5,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "302136",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 1.92,
+      "grade": "D",
+      "name": ""
+    },
+    {
+      "roll": "302137",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302138",
+      "group": "Unsuccessful / Others",
+      "status": "Failed",
+      "result": "FAIL",
+      "code": "F",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302139",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302140",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302141",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302142",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302143",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302144",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302145",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.92,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "302146",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302147",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302148",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.83,
+      "grade": "A-",
+      "name": ""
+    },
+    {
+      "roll": "302149",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.58,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "302150",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302151",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302152",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302153",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.58,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "302154",
+      "group": "Unsuccessful / Others",
+      "status": "Failed",
+      "result": "FAIL",
+      "code": "F",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "302155",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.17,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "302156",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.67,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "502344",
+      "group": "Unsuccessful / Others",
+      "status": "Failed",
+      "result": "FAIL",
+      "code": "F",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502345",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502346",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.5,
+      "grade": "A-",
+      "name": ""
+    },
+    {
+      "roll": "502347",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.5,
+      "grade": "A-",
+      "name": ""
+    },
+    {
+      "roll": "502348",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502349",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.33,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "502350",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.0,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "502351",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502352",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.83,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "502353",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502354",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.0,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "502355",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 1.83,
+      "grade": "D",
+      "name": ""
+    },
+    {
+      "roll": "502356",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502357",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.17,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "502358",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.67,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "502359",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502360",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502361",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.17,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "502362",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.17,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "502363",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 1.83,
+      "grade": "D",
+      "name": ""
+    },
+    {
+      "roll": "502364",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.0,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "502365",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502366",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 1.5,
+      "grade": "D",
+      "name": ""
+    },
+    {
+      "roll": "502367",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.17,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "502368",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.25,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "502369",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.5,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "502370",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.83,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "502371",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502372",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502373",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502374",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502375",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.33,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "502376",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502377",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502378",
+      "group": "Unsuccessful / Others",
+      "status": "Failed",
+      "result": "FAIL",
+      "code": "F",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502379",
+      "group": "Unsuccessful / Others",
+      "status": "Failed",
+      "result": "FAIL",
+      "code": "F",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502380",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502381",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502382",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.5,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "502383",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.17,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "502384",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 1.83,
+      "grade": "D",
+      "name": ""
+    },
+    {
+      "roll": "502385",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502386",
+      "group": "Unsuccessful / Others",
+      "status": "Failed",
+      "result": "FAIL",
+      "code": "F",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502387",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502388",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502389",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502390",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502391",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 1.83,
+      "grade": "D",
+      "name": ""
+    },
+    {
+      "roll": "502392",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502393",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502394",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502395",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502396",
+      "group": "Unsuccessful / Others",
+      "status": "Failed",
+      "result": "FAIL",
+      "code": "F",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502397",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502398",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.33,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "502399",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502400",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502401",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.17,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "502402",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502403",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502404",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.92,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "502405",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.67,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "502406",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.25,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "502407",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.0,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "502408",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.5,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "502409",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.0,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "502410",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502411",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.0,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "502412",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.17,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "502413",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502414",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502415",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502416",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.5,
+      "grade": "A-",
+      "name": ""
+    },
+    {
+      "roll": "502417",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.83,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "502418",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.08,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "502419",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.92,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "502420",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.17,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "502421",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.0,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "502422",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502423",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502424",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502425",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502426",
+      "group": "Unsuccessful / Others",
+      "status": "Failed",
+      "result": "FAIL",
+      "code": "F",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502427",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502428",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502429",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502430",
+      "group": "Unsuccessful / Others",
+      "status": "Absent",
+      "result": "ABSENT",
+      "code": "ABS.",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502431",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "502432",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.17,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "701073",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.5,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701074",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.08,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "701075",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.42,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701076",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.5,
+      "grade": "A-",
+      "name": ""
+    },
+    {
+      "roll": "701077",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701078",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701079",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.83,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701080",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.0,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "701081",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701082",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.5,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701083",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701084",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701085",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701086",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.83,
+      "grade": "A-",
+      "name": ""
+    },
+    {
+      "roll": "701087",
+      "group": "Science",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.75,
+      "grade": "A-",
+      "name": ""
+    },
+    {
+      "roll": "701088",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701089",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701090",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701091",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.5,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701092",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701093",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.42,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701094",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.42,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701095",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.08,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701096",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.08,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701097",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.0,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "701098",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701099",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701100",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.17,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "701101",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701102",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.75,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701103",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.5,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701104",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701105",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.0,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701106",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.42,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701107",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.67,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701108",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.25,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "701109",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.42,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701110",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 1.58,
+      "grade": "D",
+      "name": ""
+    },
+    {
+      "roll": "701111",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.92,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701112",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701113",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.25,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "701114",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.08,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701115",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.0,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701116",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.5,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701117",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.25,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "701118",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701119",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.0,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "701120",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701121",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.58,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701122",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.33,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "701123",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701124",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.33,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701125",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701126",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.17,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701127",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701128",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.33,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701129",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.17,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701130",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.75,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701131",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701132",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.5,
+      "grade": "A-",
+      "name": ""
+    },
+    {
+      "roll": "701133",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.92,
+      "grade": "A-",
+      "name": ""
+    },
+    {
+      "roll": "701134",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.25,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "701135",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.83,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701136",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701137",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.25,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701138",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.92,
+      "grade": "A-",
+      "name": ""
+    },
+    {
+      "roll": "701139",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.83,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701140",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701141",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701142",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701143",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.5,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701144",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701145",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701146",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.92,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701147",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.0,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "701148",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.0,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701149",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.58,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701150",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.5,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701151",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 1.67,
+      "grade": "D",
+      "name": ""
+    },
+    {
+      "roll": "701152",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701153",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.0,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701154",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.0,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701155",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 1.83,
+      "grade": "D",
+      "name": ""
+    },
+    {
+      "roll": "701156",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.17,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "701157",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.83,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701158",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701159",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.58,
+      "grade": "A-",
+      "name": ""
+    },
+    {
+      "roll": "701160",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.58,
+      "grade": "A-",
+      "name": ""
+    },
+    {
+      "roll": "701161",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701162",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701163",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.75,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701164",
+      "group": "Humanities",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.25,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "701165",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701166",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701167",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.92,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701168",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701169",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.42,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "701170",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.08,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701171",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.83,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701172",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.75,
+      "grade": "A-",
+      "name": ""
+    },
+    {
+      "roll": "701173",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.0,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701174",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.25,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701175",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.25,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701176",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.17,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "701177",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.67,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701178",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.08,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701179",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701180",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.67,
+      "grade": "A-",
+      "name": ""
+    },
+    {
+      "roll": "701181",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.42,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701182",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 1.83,
+      "grade": "D",
+      "name": ""
+    },
+    {
+      "roll": "701183",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 1.67,
+      "grade": "D",
+      "name": ""
+    },
+    {
+      "roll": "701184",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.58,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701185",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.92,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701186",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.0,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701187",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701188",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701189",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.58,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701190",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701191",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701192",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.92,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701193",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701194",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701195",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.42,
+      "grade": "B",
+      "name": ""
+    },
+    {
+      "roll": "701196",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701197",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.25,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701198",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.0,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "701199",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (2 subjects)",
+      "result": "FAIL",
+      "code": "F2",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701200",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 1.92,
+      "grade": "D",
+      "name": ""
+    },
+    {
+      "roll": "701201",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 3.75,
+      "grade": "A-",
+      "name": ""
+    },
+    {
+      "roll": "701202",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 1.75,
+      "grade": "D",
+      "name": ""
+    },
+    {
+      "roll": "701203",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701204",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701205",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701206",
+      "group": "Unsuccessful / Others",
+      "status": "Failed (1 subject)",
+      "result": "FAIL",
+      "code": "F1",
+      "gpa": null,
+      "grade": null,
+      "name": ""
+    },
+    {
+      "roll": "701207",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 1.83,
+      "grade": "D",
+      "name": ""
+    },
+    {
+      "roll": "701208",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.83,
+      "grade": "C",
+      "name": ""
+    },
+    {
+      "roll": "770093",
+      "group": "Business Studies",
+      "status": "Passed",
+      "result": "PASS",
+      "code": null,
+      "gpa": 2.67,
+      "grade": "C",
+      "name": ""
+    }
+  ]
+}
