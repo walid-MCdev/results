@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HSC 2026 Result Search</title>
+<style>
+:root{--bg:#f3f7f3;--card:#fff;--text:#1f3326;--muted:#6b7d70;--line:#dce9df;--accent:#287747;--pass:#1e7a46;--fail:#b3261e;--abs:#8a6d00;--chip:#eaf4eb}
+@media (prefers-color-scheme:dark){:root{--bg:#121a15;--card:#1a251e;--text:#e4efe7;--muted:#93a498;--line:#2c3b31;--accent:#4cb078;--pass:#5fd08e;--fail:#ff8a80;--abs:#e6c35c;--chip:#223028}}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;background:var(--bg);color:var(--text);line-height:1.5}
+.wrap{max-width:900px;margin:0 auto;padding:24px 16px 60px}
+h1{font-size:22px;color:var(--accent)}
+.sub{color:var(--muted);font-size:13px;margin:4px 0 18px}
+.stats{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px}
+.chip{background:var(--chip);border:1px solid var(--line);border-radius:999px;padding:4px 12px;font-size:12px}
+.search{display:flex;gap:8px;margin-bottom:10px}
+input[type=search]{flex:1;height:46px;border:1px solid var(--line);border-radius:8px;padding:0 14px;font-size:16px;background:var(--card);color:var(--text);outline:none}
+input[type=search]:focus{border-color:var(--accent);box-shadow:0 0 0 3px rgba(40,119,71,.15)}
+select{height:46px;border:1px solid var(--line);border-radius:8px;padding:0 10px;background:var(--card);color:var(--text);font-size:14px}
+.tools{display:flex;gap:10px;flex-wrap:wrap;align-items:center;font-size:13px;color:var(--muted);margin-bottom:14px}
+.tools label.btn{cursor:pointer;border:1px dashed var(--line);border-radius:6px;padding:5px 10px;background:var(--card);color:var(--accent);font-weight:600}
+.tools input[type=file]{display:none}
+.notice{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--abs);border-radius:6px;padding:10px 12px;font-size:13px;margin-bottom:14px}
+.count{font-size:13px;color:var(--muted);margin-bottom:8px}
+.list{display:grid;gap:8px}
+.row{display:grid;grid-template-columns:90px 1fr auto;gap:12px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:8px;padding:12px 14px}
+.roll{font-variant-numeric:tabular-nums;font-weight:700}
+.name{font-weight:600}
+.meta{font-size:12px;color:var(--muted)}
+.res{text-align:right}
+.gpa{font-size:20px;font-weight:700;font-variant-numeric:tabular-nums}
+.PASS{color:var(--pass)}.FAIL{color:var(--fail)}.ABSENT{color:var(--abs)}
+.badge{font-size:12px;font-weight:600}
+.empty{text-align:center;color:var(--muted);padding:40px 0}
+@media(max-width:520px){.row{grid-template-columns:1fr auto}.roll{grid-column:1/-1}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>HSC 2026 Result Search</h1>
+  <div class="sub" id="inst"></div>
+  <div class="stats" id="stats"></div>
+
+  <div class="search">
+    <input type="search" id="q" placeholder="Search by name or roll number…" autofocus>
+    <select id="filter">
+      <option value="">All results</option>
+      <option value="PASS">Passed</option>
+      <option value="FAIL">Failed</option>
+      <option value="ABSENT">Absent</option>
+    </select>
+    <select id="group"><option value="">All groups</option></select>
+  </div>
+
+  <div class="tools">
+    <label class="btn">Load names.csv<input type="file" id="namesFile" accept=".csv,text/csv"></label>
+    <label class="btn">Load results.json<input type="file" id="jsonFile" accept=".json,application/json"></label>
+    <span id="namesInfo"></span>
+  </div>
+  <div class="notice" id="notice" hidden>
+    The board PDF lists only roll numbers and GPA, so there are no student names in this data yet.
+    Load a <b>names.csv</b> (columns: <code>roll,name</code>) to enable name search. Roll search works now.
+  </div>
+
+  <div class="count" id="count"></div>
+  <div class="list" id="list"></div>
+</div>
+
+<script>
+let DATA = /*__DATA__*/null;
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+function init() {
+  if (!DATA) { $("count").textContent = "No data loaded. Use “Load results.json”."; return; }
+  const m = DATA.meta || {};
+  $("inst").textContent = [m.institute_name, m.thana, m.zilla].filter(Boolean).join(" · ");
+  $("stats").innerHTML = [
+    m.appeared && `Appeared: ${m.appeared}`, m.passed && `Passed: ${m.passed}`,
+    m.percent && `Pass rate: ${m.percent}`
+  ].filter(Boolean).map(t => `<span class="chip">${esc(t)}</span>`).join("");
+
+  const groups = [...new Set(DATA.records.map(r => r.group).filter(Boolean))];
+  $("group").innerHTML = '<option value="">All groups</option>' + groups.map(g => `<option>${esc(g)}</option>`).join("");
+
+  const named = DATA.records.filter(r => r.name).length;
+  $("notice").hidden = named > 0;
+  $("namesInfo").textContent = named ? `${named} names loaded` : "";
+  render();
+}
+
+function render() {
+  if (!DATA) return;
+  const q = $("q").value.trim().toLowerCase();
+  const f = $("filter").value, g = $("group").value;
+  const terms = q.split(/\s+/).filter(Boolean);
+
+  const hits = DATA.records.filter(r => {
+    if (f && r.result !== f) return false;
+    if (g && r.group !== g) return false;
+    const hay = (r.roll + " " + (r.name || "")).toLowerCase();
+    return terms.every(t => hay.includes(t));
+  });
+
+  $("count").textContent = `${hits.length} of ${DATA.records.length} records`;
+  if (!hits.length) { $("list").innerHTML = '<div class="empty">No matching records.</div>'; return; }
+
+  $("list").innerHTML = hits.slice(0, 200).map(r => {
+    const right = r.result === "PASS"
+      ? `<div class="gpa PASS">${r.gpa.toFixed(2)}</div><div class="badge PASS">${esc(r.grade)} · Passed</div>`
+      : `<div class="gpa ${r.result}">${esc(r.code)}</div><div class="badge ${r.result}">${esc(r.status)}</div>`;
+    return `<div class="row">
+      <div class="roll">${esc(r.roll)}</div>
+      <div><div class="name">${esc(r.name) || '<span class="meta">(name not loaded)</span>'}</div>
+           <div class="meta">${esc(r.group)}</div></div>
+      <div class="res">${right}</div></div>`;
+  }).join("") + (hits.length > 200 ? '<div class="empty">Showing first 200. Refine your search.</div>' : "");
+}
+
+["q", "filter", "group"].forEach(id => $(id).addEventListener("input", render));
+
+$("namesFile").addEventListener("change", async e => {
+  const file = e.target.files[0]; if (!file || !DATA) return;
+  const text = (await file.text()).replace(/^\uFEFF/, "");
+  const map = {};
+  text.split(/\r?\n/).forEach(line => {
+    const i = line.indexOf(",");
+    if (i < 1) return;
+    const roll = line.slice(0, i).trim(), name = line.slice(i + 1).trim().replace(/^"|"$/g, "");
+    if (/^\d+$/.test(roll)) map[roll] = name;
+  });
+  DATA.records.forEach(r => { if (map[r.roll]) r.name = map[r.roll]; });
+  const named = DATA.records.filter(r => r.name).length;
+  $("notice").hidden = named > 0;
+  $("namesInfo").textContent = `${named} names loaded`;
+  render();
+});
+
+$("jsonFile").addEventListener("change", async e => {
+  const file = e.target.files[0]; if (!file) return;
+  try { DATA = JSON.parse(await file.text()); init(); }
+  catch { $("count").textContent = "Could not read that JSON file."; }
+});
+
+init();
+</script>
+</body>
+</html>
