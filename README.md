@@ -1,4 +1,4 @@
-# HSC Result Search 
+# HSC Result Search
 
 Upload a board result PDF to `pdfs/` and GitHub Actions parses it, builds a searchable page, and publishes it with GitHub Pages.
 
@@ -11,12 +11,14 @@ Upload a board result PDF to `pdfs/` and GitHub Actions parses it, builds a sear
 ## Day-to-day use
 - **New results:** add a PDF to `pdfs/` (Add file → Upload files on github.com) and commit. The site rebuilds automatically.
 - **Names:** the board PDF has only roll numbers. Add `roll,name` lines to `names.csv` and commit to enable name search.
-- Each PDF gets its own page at `/<pdf-file-name>/`, with a `results.json` next to it.
+- The action saves one JSON per PDF to `data/<pdf-file-name>.json` and commits it back to the repo automatically.
+- Each PDF also gets its own page at `/<pdf-file-name>/`, with the same `results.json` next to it.
+- Raw URL for querying from elsewhere: `https://raw.githubusercontent.com/<user>/<repo>/main/data/<pdf-file-name>.json`
 
 ## Local run
 ```
 pip install -r requirements.txt
-python scripts/build_site.py   # output in site/
+python scripts/build_site.py   # JSON in data/, website in site/
 ```
 
 ## Privacy
